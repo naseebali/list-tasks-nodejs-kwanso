@@ -1,0 +1,22 @@
+{
+  "name": "kwanso-backend-exercise-by-naseeb-ali",
+  "version": "1.0.0",
+  "description": "this is to create an exercise for kwanso-tasks",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "kawanso"
+  ],
+  "author": "naseebali_na2",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "mongodb": "^4.3.1"
+  }
+}
